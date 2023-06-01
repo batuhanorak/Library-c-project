@@ -1,4 +1,4 @@
-# Library-project
+# Library Database Program
 This project made by MEHMET BATUHAN ORAK<br />
 First you must use integers for book id.<br />
 Second while  you are entering data ,dont use space button. <br />
